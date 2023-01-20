@@ -1,0 +1,1 @@
+print('Я изучаю такие языки как ‘Python’ и ‘JavaScript’')
